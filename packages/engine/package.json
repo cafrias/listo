@@ -1,0 +1,19 @@
+{
+  "name": "@listo/engine",
+  "version": "1.0.0",
+  "description": "Listo | Smart grocery list",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cafrias/listo.git"
+  },
+  "author": "Carlos Frias <carlos.a.frias@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cafrias/listo/issues"
+  },
+  "homepage": "https://github.com/cafrias/listo#readme"
+}
