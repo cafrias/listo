@@ -1,0 +1,29 @@
+{
+  "name": "@listo/api",
+  "version": "1.0.0",
+  "description": "Listo | Smart grocery list",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "tsc --noEmit && eslint '*/**/*.{js,ts,tsx}' --quiet --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cafrias/listo.git"
+  },
+  "author": "Carlos Frias <carlos.a.frias@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cafrias/listo/issues"
+  },
+  "homepage": "https://github.com/cafrias/listo#readme",
+  "devDependencies": {
+    "ts-node": "^8.4.1",
+    "typescript": "^3.6.3"
+  },
+  "dependencies": {
+    "apollo-server": "^2.9.4",
+    "graphql": "^14.5.8"
+  }
+}
