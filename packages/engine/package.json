@@ -11,7 +11,7 @@
     "url": "git+https://github.com/cafrias/listo.git"
   },
   "author": "Carlos Frias <carlos.a.frias@gmail.com>",
-  "license": "MIT",
+  "license": "GNU GPLv3",
   "bugs": {
     "url": "https://github.com/cafrias/listo/issues"
   },
